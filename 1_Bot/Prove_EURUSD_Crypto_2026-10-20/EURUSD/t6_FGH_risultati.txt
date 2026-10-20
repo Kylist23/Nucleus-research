@@ -1,0 +1,7 @@
+EUR/USD - fattore soglia 1.0, fattore stop 1.0
+F: n=297 (acq 154, ven 143) vinte=45% costi_doppi=-17.9R senza_costi=+1.0R media=-0.060R acquisti=-5.1R vendite=-12.8R 2016-19=-10.9R 2020-22=-6.9R ultimo_terzo=-4.6R drawdown=9.7% criteri=SNNNS -> BOCCIATA
+   per anno (costi doppi): {2016: -7.5, 2017: 2.0, 2018: -1.6, 2019: -3.8, 2020: -6.3, 2021: 0.5, 2022: -1.1}
+G: n=339 (acq 178, ven 161) vinte=42% costi_doppi=-17.9R senza_costi=-5.5R media=-0.053R acquisti=-9.1R vendite=-8.8R 2016-19=-14.1R 2020-22=-3.8R ultimo_terzo=-1.8R drawdown=8.9% criteri=SNNNS -> BOCCIATA
+   per anno (costi doppi): {2016: -7.5, 2017: -3.5, 2018: -2.4, 2019: -0.7, 2020: -0.9, 2021: -2.5, 2022: -0.4}
+H: n=192 (acq 97, ven 95) vinte=46% costi_doppi=-10.0R senza_costi=-1.4R media=-0.052R acquisti=-4.3R vendite=-5.7R 2016-19=-4.3R 2020-22=-5.7R ultimo_terzo=-0.9R drawdown=6.6% criteri=SNNNS -> BOCCIATA
+   per anno (costi doppi): {2016: -4.2, 2017: -3.2, 2018: -1.1, 2019: 4.2, 2020: -6.6, 2021: 1.2, 2022: -0.3}

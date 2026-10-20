@@ -1,0 +1,21 @@
+               uscita costi  operazioni vinte  somma_pct  media_pct  p2016_19  p2020_22  ore_medie motivo_piu_frequente
+       Stop fisso 10%    x0         175   53%       26.9      0.154      32.2      -5.3      199.0          end_of_data
+       Stop fisso 10%    x1         175   51%        6.3      0.036      20.3     -14.0      199.0          end_of_data
+       Stop fisso 10%    x2         175   51%      -14.2     -0.081       8.4     -22.6      199.0          end_of_data
+     Trailing ATR 2,5    x0         579   39%       31.7      0.055      22.8       8.9       23.0        trailing_stop
+     Trailing ATR 2,5    x1         579   37%       15.8      0.027      13.0       2.9       23.0        trailing_stop
+     Trailing ATR 2,5    x2         579   36%       -0.0     -0.000       3.1      -3.2       23.0        trailing_stop
+       Uscita a fette    x0         175   53%       26.9      0.154      32.2      -5.3      199.0          end_of_data
+       Uscita a fette    x1         175   51%        6.3      0.036      20.3     -14.0      199.0          end_of_data
+       Uscita a fette    x2         175   51%      -14.2     -0.081       8.4     -22.6      199.0          end_of_data
+      Trailing EMA 20    x0         577   40%       48.4      0.084      28.1      20.3       23.0            ema_cross
+      Trailing EMA 20    x1         577   38%       32.6      0.057      18.3      14.4       23.0            ema_cross
+      Trailing EMA 20    x2         577   36%       16.9      0.029       8.5       8.4       23.0            ema_cross
+Stop a tempo 50 barre    x0         303   22%       10.3      0.034      12.7      -2.4       94.0            time_stop
+Stop a tempo 50 barre    x1         303   22%       -9.1     -0.030       1.3     -10.4       94.0            time_stop
+Stop a tempo 50 barre    x2         303   21%      -28.5     -0.094     -10.1     -18.4       94.0            time_stop
+
+Trailing ATR 2,5: entrate a caso, costi x2, somma % su 20 ripetizioni: mediana -15.2, min -56.5, max +8.6
+Trailing EMA 20: entrate a caso, costi x2, somma % su 20 ripetizioni: mediana -17.2, min -50.2, max +16.2
+
+Riferimento: comprare e tenere l'oro dal primo all'ultimo prezzo H1 = +71.6%

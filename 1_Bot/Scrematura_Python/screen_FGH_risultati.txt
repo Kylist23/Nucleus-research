@@ -1,0 +1,8 @@
+fattore soglia 1.0, fattore stop 1.0
+F: operazioni=785 (acq 396, ven 389) lordo=+5.0R costi_doppi=-36.6R media=-0.047R vinte=46% acquisti=-12.3R vendite=-24.3R 2016-19=-19.5R 2020-22=-17.1R ultimo_terzo=-15.7R dd=19.1% criteri=SNNNN
+   per anno (costi doppi): {2016: -6.4, 2017: -6.6, 2018: -3.8, 2019: -2.6, 2020: -12.4, 2021: -1.8, 2022: -2.9}
+G: operazioni=414 (acq 209, ven 205) lordo=+6.1R costi_doppi=-4.6R media=-0.011R vinte=47% acquisti=-10.8R vendite=+6.2R 2016-19=-7.5R 2020-22=+2.9R ultimo_terzo=+3.9R dd=4.9% criteri=SNNNS
+   per anno (costi doppi): {2016: -1.1, 2017: -5.5, 2018: -1.4, 2019: 0.5, 2020: -0.1, 2021: 0.6, 2022: 2.3}
+H: operazioni=204 (acq 97, ven 107) lordo=-10.0R costi_doppi=-16.5R media=-0.081R vinte=49% acquisti=-10.4R vendite=-6.1R 2016-19=-3.9R 2020-22=-12.5R ultimo_terzo=-8.0R dd=9.4% criteri=SNNNS
+   per anno (costi doppi): {2016: -6.6, 2017: -0.7, 2018: 3.7, 2019: -0.3, 2020: -7.0, 2021: -8.0, 2022: 2.4}
+G, correlazione nello stesso giorno tra variazione oro (17:00 server) e EUR/USD BCE: +0.28 su 1790 giorni

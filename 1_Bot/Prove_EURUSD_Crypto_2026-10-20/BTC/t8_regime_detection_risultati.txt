@@ -1,0 +1,14 @@
+Bitcoin - skill regime-detection, solo acquisti, somma dei rendimenti % (senza leva)
+H1 statica (medie 10/30) costi x0: operazioni=1051 vinte=30% totale=+561.8% 2016-19=+408.1% 2020-22=+153.7% ultimo_terzo=+86.5% drawdown=57.8%
+H1 statica (medie 10/30) costi x1: operazioni=1051 vinte=28% totale=+312.9% 2016-19=+268.1% 2020-22=+44.8% ultimo_terzo=+0.3% drawdown=72.6%
+H1 statica (medie 10/30) costi x2: operazioni=1051 vinte=25% totale=+64.0% 2016-19=+128.1% 2020-22=-64.1% ultimo_terzo=-85.9% drawdown=89.7% criteri=SSNNN (solo acquisti: il criterio vendite non e' verificabile)
+H1 adattiva (medie o RSI) costi x0: operazioni=793 vinte=44% totale=+255.1% 2016-19=+150.1% 2020-22=+104.9% ultimo_terzo=+69.1% drawdown=50.9%
+H1 adattiva (medie o RSI) costi x1: operazioni=793 vinte=39% totale=+97.1% 2016-19=+58.0% 2020-22=+39.1% ultimo_terzo=+18.0% drawdown=60.2%
+H1 adattiva (medie o RSI) costi x2: operazioni=793 vinte=34% totale=-60.9% 2016-19=-34.2% 2020-22=-26.6% ultimo_terzo=-33.2% drawdown=81.9% criteri=SNNNN (solo acquisti: il criterio vendite non e' verificabile)
+D1 statica (medie 10/30) costi x0: operazioni=31 vinte=52% totale=+918.5% 2016-19=+552.7% 2020-22=+365.8% ultimo_terzo=+325.5% drawdown=51.9%
+D1 statica (medie 10/30) costi x1: operazioni=31 vinte=48% totale=+873.6% 2016-19=+526.0% 2020-22=+347.6% ultimo_terzo=+312.8% drawdown=53.8%
+D1 statica (medie 10/30) costi x2: operazioni=31 vinte=48% totale=+828.6% 2016-19=+499.2% 2020-22=+329.5% ultimo_terzo=+300.2% drawdown=55.6% criteri=NSNSN (solo acquisti: il criterio vendite non e' verificabile)
+D1 adattiva (medie o RSI) costi x0: operazioni=30 vinte=57% totale=+40.5% 2016-19=+53.5% 2020-22=-13.0% ultimo_terzo=-34.6% drawdown=59.5%
+D1 adattiva (medie o RSI) costi x1: operazioni=30 vinte=53% totale=+14.6% 2016-19=+37.3% 2020-22=-22.7% ultimo_terzo=-40.7% drawdown=66.0%
+D1 adattiva (medie o RSI) costi x2: operazioni=30 vinte=50% totale=-11.3% 2016-19=+21.0% 2020-22=-32.4% ultimo_terzo=-46.8% drawdown=71.5% criteri=NNNNN (solo acquisti: il criterio vendite non e' verificabile)
+Riferimento: comprare e tenere Bitcoin = +3734.3%

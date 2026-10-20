@@ -1,0 +1,2 @@
+C1 BTC stop x1: n=1341 (acq 787, ven 554) vinte=0% costi_doppi=-2497.4R senza_costi=-65.7R media=-1.862R acquisti=-1492.0R vendite=-1005.4R 2016-19=-1710.5R 2020-22=-786.9R ultimo_terzo=-571.7R drawdown=100.0% criteri=SNNNN -> BOCCIATA
+   per anno: {2016: -676.8, 2017: -215.9, 2018: -363.6, 2019: -454.2, 2020: -317.7, 2021: -155.9, 2022: -313.3}

@@ -1,0 +1,25 @@
+EUR/USD, solo acquisti, somma dei rendimenti % delle operazioni (senza leva)
+               uscita costi  operazioni vinte  somma_pct  media_pct  p2016_19  p2020_22  ultimo_terzo  drawdown_pct  ore_medie        motivo
+       Stop fisso 10%    x0         157   52%       12.0      0.076       9.6       2.3          -4.5           8.8      200.0   end_of_data
+       Stop fisso 10%    x1         157   50%       -2.9     -0.019      -0.1      -2.9          -8.1          14.2      200.0   end_of_data
+       Stop fisso 10%    x2         157   45%      -17.8     -0.114      -9.8      -8.1         -11.8          22.1      200.0   end_of_data
+     Trailing ATR 2,5    x0         533   39%        4.7      0.009       3.6       1.1          -2.3           6.8       21.0 trailing_stop
+     Trailing ATR 2,5    x1         533   37%       -7.2     -0.014      -4.0      -3.2          -5.3          11.1       21.0 trailing_stop
+     Trailing ATR 2,5    x2         533   35%      -19.2     -0.036     -11.6      -7.6          -8.2          20.2       21.0 trailing_stop
+       Uscita a fette    x0         157   52%       12.0      0.076       9.6       2.3          -4.5           8.8      200.0   end_of_data
+       Uscita a fette    x1         157   50%       -2.9     -0.019      -0.1      -2.9          -8.1          14.2      200.0   end_of_data
+       Uscita a fette    x2         157   45%      -17.8     -0.114      -9.8      -8.1         -11.8          22.1      200.0   end_of_data
+      Trailing EMA 20    x0         525   37%        3.2      0.006       1.7       1.4          -1.6           8.9       22.0     ema_cross
+      Trailing EMA 20    x1         525   34%       -8.6     -0.016      -5.8      -2.7          -4.5          10.6       22.0     ema_cross
+      Trailing EMA 20    x2         525   32%      -20.3     -0.039     -13.4      -6.9          -7.3          19.8       22.0     ema_cross
+Stop a tempo 50 barre    x0         267   20%        3.5      0.013       1.7       1.8          -3.3          12.2       95.0     time_stop
+Stop a tempo 50 barre    x1         267   20%      -10.1     -0.038      -7.2      -2.9          -6.5          15.3       95.0     time_stop
+Stop a tempo 50 barre    x2         267   20%      -23.8     -0.089     -16.2      -7.6          -9.8          25.6       95.0     time_stop
+
+Stop fisso 10%: reale -17.8% | entrate a caso (20): mediana -31.1%, min -46.2%, max -18.7%, prove casuali sotto il reale: 20/20
+Trailing ATR 2,5: reale -19.2% | entrate a caso (20): mediana -31.8%, min -46.5%, max -19.0%, prove casuali sotto il reale: 19/20
+Uscita a fette: reale -17.8% | entrate a caso (20): mediana -28.2%, min -39.8%, max -19.0%, prove casuali sotto il reale: 20/20
+Trailing EMA 20: reale -20.3% | entrate a caso (20): mediana -33.7%, min -47.5%, max -24.2%, prove casuali sotto il reale: 20/20
+Stop a tempo 50 barre: reale -23.8% | entrate a caso (20): mediana -30.8%, min -39.5%, max -20.1%, prove casuali sotto il reale: 15/20
+
+Riferimento: comprare e tenere EUR/USD dal primo all'ultimo prezzo H1 = +0.6%

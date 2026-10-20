@@ -1,0 +1,6 @@
+CTRL EURUSD x1 costi x2: n=1146 (acq 565, ven 581) vinte=34% costi_doppi=-172.9R senza_costi=+11.0R media=-0.151R acquisti=-99.5R vendite=-73.3R 2016-19=-76.7R 2020-22=-96.1R ultimo_terzo=-91.7R drawdown=59.9% criteri=SNNNN -> BOCCIATA notti_medie=1.2
+   per anno: {2016: -44.2, 2017: 4.9, 2018: -17.4, 2019: -20.0, 2020: -31.9, 2021: -50.7, 2022: -13.5}
+E1 EURUSD x1 costi x2: n=1231 (acq 601, ven 630) vinte=32% costi_doppi=-198.6R senza_costi=-1.2R media=-0.161R acquisti=-73.7R vendite=-124.8R 2016-19=-114.1R 2020-22=-84.4R ultimo_terzo=-64.9R drawdown=64.9% criteri=SNNNN -> BOCCIATA notti_medie=0.9
+   per anno: {2016: -33.4, 2017: -13.0, 2018: -22.4, 2019: -45.3, 2020: -41.1, 2021: -40.1, 2022: -3.3}
+E2 EURUSD x1 costi x2: n=827 (acq 414, ven 413) vinte=33% costi_doppi=-160.8R senza_costi=-18.0R media=-0.194R acquisti=-108.1R vendite=-52.7R 2016-19=-60.0R 2020-22=-100.8R ultimo_terzo=-85.7R drawdown=57.3% criteri=SNNNN -> BOCCIATA notti_medie=1.6
+   per anno: {2016: -42.2, 2017: 1.3, 2018: -12.1, 2019: -7.1, 2020: -37.8, 2021: -55.7, 2022: -7.3}

@@ -1,0 +1,13 @@
+Bitcoin: somma dei rendimenti % delle operazioni, senza leva
+FAdxSmaStrategy (H1) costi x0: operazioni=174 (acq 74, ven 100) vinte=35% totale=+8.3% acquisti=+0.8% vendite=+7.5% 2016-19=+8.9% 2020-22=-0.5% ultimo_terzo=-10.6% drawdown=25.3%
+FAdxSmaStrategy (H1) costi x1: operazioni=174 (acq 74, ven 100) vinte=29% totale=-28.6% acquisti=-15.2% vendite=-13.4% 2016-19=-13.8% 2020-22=-14.8% ultimo_terzo=-19.1% drawdown=34.3%
+FAdxSmaStrategy (H1) costi x2: operazioni=174 (acq 74, ven 100) vinte=22% totale=-65.6% acquisti=-31.2% vendite=-34.4% 2016-19=-36.4% 2020-22=-29.1% ultimo_terzo=-27.6% drawdown=54.1% criteri=SNNNN -> BOCCIATA
+   per anno (costi x2): {2016: -21.7, 2017: -12.1, 2018: -11.4, 2019: 8.8, 2020: -6.5, 2021: -14.0, 2022: -8.6}
+VolatilitySystem (3 ore) costi x0: operazioni=186 (acq 93, ven 93) vinte=47% totale=+540.3% acquisti=+555.9% vendite=-15.6% 2016-19=+261.4% 2020-22=+278.8% ultimo_terzo=+215.4% drawdown=93.3%
+VolatilitySystem (3 ore) costi x1: operazioni=186 (acq 93, ven 93) vinte=45% totale=+450.5% acquisti=+502.1% vendite=-51.6% 2016-19=+209.5% 2020-22=+241.1% ultimo_terzo=+185.6% drawdown=93.9%
+VolatilitySystem (3 ore) costi x2: operazioni=186 (acq 93, ven 93) vinte=43% totale=+360.8% acquisti=+448.4% vendite=-87.6% 2016-19=+157.5% 2020-22=+203.3% ultimo_terzo=+155.8% drawdown=94.6% criteri=SSNSN -> BOCCIATA
+   per anno (costi x2): {2016: 95.4, 2017: 17.6, 2018: 0.4, 2019: 44.2, 2020: 67.5, 2021: 81.2, 2022: 54.6}
+TrendFollowingStrategy (M5) costi x0: operazioni=329 (acq 151, ven 178) vinte=79% totale=-388.5% acquisti=+66.2% vendite=-454.7% 2016-19=-219.3% 2020-22=-169.2% ultimo_terzo=-129.3% drawdown=99.9%
+TrendFollowingStrategy (M5) costi x1: operazioni=329 (acq 151, ven 178) vinte=78% totale=-504.5% acquisti=+5.0% vendite=-509.5% 2016-19=-287.5% 2020-22=-217.1% ultimo_terzo=-166.8% drawdown=100.0%
+TrendFollowingStrategy (M5) costi x2: operazioni=329 (acq 151, ven 178) vinte=78% totale=-620.6% acquisti=-56.2% vendite=-564.4% 2016-19=-355.7% 2020-22=-264.9% ultimo_terzo=-204.2% drawdown=100.0% criteri=SNNNN -> BOCCIATA
+   per anno (costi x2): {2016: -108.9, 2017: -184.6, 2018: -39.6, 2019: -22.5, 2020: -165.8, 2021: -32.1, 2022: -67.0}

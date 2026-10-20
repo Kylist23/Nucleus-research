@@ -1,0 +1,2 @@
+EUR/USD martello solo forma: reale -56.0R su 112 operazioni (costi doppi)
+entrate a caso (20 ripetizioni, stesso numero di operazioni): mediana -34.4R, min -56.7R, max +6.9R, prove casuali sotto il reale: 1/20

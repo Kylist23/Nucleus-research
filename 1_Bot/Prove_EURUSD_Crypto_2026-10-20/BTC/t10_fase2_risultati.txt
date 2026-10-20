@@ -1,0 +1,146 @@
+Bitcoin - fase 2, somma dei rendimenti % delle operazioni senza leva, dal 2016-01-01 al 2022-12-31; comprare e tenere = +3734.3%
+Nota: per le strategie solo acquisti il criterio 'acquisti e vendite entrambi positivi' non puo' essere soddisfatto (vendite = 0).
+K1 Donchian 20 + media 200 (jesse, 6 ore) costi x0: operazioni=80 (acq 80, ven 0) vinte=44% totale=+490.1% acquisti=+490.1% vendite=+0.0% 2016-19=+366.6% 2020-22=+123.5% ultimo_terzo=+85.9% drawdown=55.0%
+K1 Donchian 20 + media 200 (jesse, 6 ore) costi x1: operazioni=80 (acq 80, ven 0) vinte=44% totale=+441.8% acquisti=+441.8% vendite=+0.0% 2016-19=+337.6% 2020-22=+104.2% ultimo_terzo=+71.8% drawdown=57.8%
+K1 Donchian 20 + media 200 (jesse, 6 ore) costi x2: operazioni=80 (acq 80, ven 0) vinte=42% totale=+393.4% acquisti=+393.4% vendite=+0.0% 2016-19=+308.6% 2020-22=+84.9% ultimo_terzo=+57.8% drawdown=61.9% criteri=NSNSN -> BOCCIATA
+   per anno (costi x2): {2016: 37.1, 2017: 275.0, 2018: -40.8, 2019: 37.3, 2020: 145.0, 2021: 19.2, 2022: -79.3}
+   uscite: {'segnale': 80}; durata media 14 days 17:15:00; capitale composto costi x2 +954.8%
+K1 Donchian 20 + media 200 (jesse, 6 ore) + filtro regime-detection costi x0: operazioni=76 (acq 76, ven 0) vinte=43% totale=+454.7% acquisti=+454.7% vendite=+0.0% 2016-19=+358.7% 2020-22=+96.0% ultimo_terzo=+68.9% drawdown=57.2%
+K1 Donchian 20 + media 200 (jesse, 6 ore) + filtro regime-detection costi x1: operazioni=76 (acq 76, ven 0) vinte=42% totale=+409.5% acquisti=+409.5% vendite=+0.0% 2016-19=+331.2% 2020-22=+78.3% ultimo_terzo=+56.3% drawdown=60.8%
+K1 Donchian 20 + media 200 (jesse, 6 ore) + filtro regime-detection costi x2: operazioni=76 (acq 76, ven 0) vinte=42% totale=+364.3% acquisti=+364.3% vendite=+0.0% 2016-19=+303.6% 2020-22=+60.7% ultimo_terzo=+43.7% drawdown=64.1% criteri=NSNSN -> BOCCIATA
+   per anno (costi x2): {2016: 32.6, 2017: 258.8, 2018: -35.5, 2019: 47.7, 2020: 126.0, 2021: 12.9, 2022: -78.2}
+   uscite: {'segnale': 76}; durata media 14 days 09:18:56.842105; capitale composto costi x2 +750.4%
+K1 Donchian 20 + media 200 (jesse, 6 ore) + filtro tendenza crypto-regime costi x0: operazioni=57 (acq 57, ven 0) vinte=44% totale=+484.5% acquisti=+484.5% vendite=+0.0% 2016-19=+354.0% 2020-22=+130.5% ultimo_terzo=+126.2% drawdown=46.2%
+K1 Donchian 20 + media 200 (jesse, 6 ore) + filtro tendenza crypto-regime costi x1: operazioni=57 (acq 57, ven 0) vinte=44% totale=+447.9% acquisti=+447.9% vendite=+0.0% 2016-19=+329.4% 2020-22=+118.5% ultimo_terzo=+117.1% drawdown=47.3%
+K1 Donchian 20 + media 200 (jesse, 6 ore) + filtro tendenza crypto-regime costi x2: operazioni=57 (acq 57, ven 0) vinte=42% totale=+411.2% acquisti=+411.2% vendite=+0.0% 2016-19=+304.8% 2020-22=+106.4% ultimo_terzo=+107.9% drawdown=48.4% criteri=NSNSN -> BOCCIATA
+   per anno (costi x2): {2016: 37.1, 2017: 275.0, 2018: -38.6, 2019: 31.3, 2020: 116.4, 2021: 0.7, 2022: -10.7}
+   uscite: {'segnale': 57}; durata media 16 days 03:28:25.263157; capitale composto costi x2 +1300.6%
+
+K2 rottura di volatilita k=0,5 (giornaliero) costi x0: operazioni=973 (acq 973, ven 0) vinte=55% totale=+485.6% acquisti=+485.6% vendite=+0.0% 2016-19=+364.7% 2020-22=+120.9% ultimo_terzo=+39.1% drawdown=41.9%
+K2 rottura di volatilita k=0,5 (giornaliero) costi x1: operazioni=973 (acq 973, ven 0) vinte=50% totale=+291.0% acquisti=+291.0% vendite=+0.0% 2016-19=+255.7% 2020-22=+35.3% ultimo_terzo=-28.1% drawdown=62.6%
+K2 rottura di volatilita k=0,5 (giornaliero) costi x2: operazioni=973 (acq 973, ven 0) vinte=46% totale=+96.4% acquisti=+96.4% vendite=+0.0% 2016-19=+146.7% 2020-22=-50.3% ultimo_terzo=-95.3% drawdown=77.8% criteri=SSNNN -> BOCCIATA
+   per anno (costi x2): {2016: 42.8, 2017: 96.6, 2018: -24.0, 2019: 31.3, 2020: 66.7, 2021: -57.2, 2022: -59.8}
+   uscite: {'fine giorno': 973}; durata media 0 days 13:20:34.224049; capitale composto costi x2 +53.6%
+K2 rottura di volatilita k=0,5 (giornaliero) + filtro regime-detection costi x0: operazioni=851 (acq 851, ven 0) vinte=54% totale=+417.7% acquisti=+417.7% vendite=+0.0% 2016-19=+333.2% 2020-22=+84.5% ultimo_terzo=+24.3% drawdown=41.3%
+K2 rottura di volatilita k=0,5 (giornaliero) + filtro regime-detection costi x1: operazioni=851 (acq 851, ven 0) vinte=50% totale=+247.5% acquisti=+247.5% vendite=+0.0% 2016-19=+236.6% 2020-22=+10.9% ultimo_terzo=-33.3% drawdown=61.1%
+K2 rottura di volatilita k=0,5 (giornaliero) + filtro regime-detection costi x2: operazioni=851 (acq 851, ven 0) vinte=46% totale=+77.3% acquisti=+77.3% vendite=+0.0% 2016-19=+140.0% 2020-22=-62.7% ultimo_terzo=-90.9% drawdown=75.1% criteri=SSNNN -> BOCCIATA
+   per anno (costi x2): {2016: 40.8, 2017: 72.9, 2018: -10.2, 2019: 36.4, 2020: 44.7, 2021: -39.3, 2022: -68.1}
+   uscite: {'fine giorno': 851}; durata media 0 days 13:15:46.533490; capitale composto costi x2 +33.7%
+K2 rottura di volatilita k=0,5 (giornaliero) + filtro tendenza crypto-regime costi x0: operazioni=629 (acq 629, ven 0) vinte=58% totale=+371.9% acquisti=+371.9% vendite=+0.0% 2016-19=+322.1% 2020-22=+49.7% ultimo_terzo=+16.8% drawdown=48.7%
+K2 rottura di volatilita k=0,5 (giornaliero) + filtro tendenza crypto-regime costi x1: operazioni=629 (acq 629, ven 0) vinte=53% totale=+246.1% acquisti=+246.1% vendite=+0.0% 2016-19=+242.7% 2020-22=+3.3% ultimo_terzo=-21.0% drawdown=58.4%
+K2 rottura di volatilita k=0,5 (giornaliero) + filtro tendenza crypto-regime costi x2: operazioni=629 (acq 629, ven 0) vinte=48% totale=+120.3% acquisti=+120.3% vendite=+0.0% 2016-19=+163.3% 2020-22=-43.1% ultimo_terzo=-58.8% drawdown=66.8% criteri=SSNNN -> BOCCIATA
+   per anno (costi x2): {2016: 42.8, 2017: 96.6, 2018: 5.0, 2019: 19.0, 2020: 37.5, 2021: -62.3, 2022: -18.3}
+   uscite: {'fine giorno': 629}; durata media 0 days 13:20:46.263910; capitale composto costi x2 +130.6%
+
+K2b rottura di volatilita + media 15 costi x0: operazioni=756 (acq 756, ven 0) vinte=57% totale=+434.3% acquisti=+434.3% vendite=+0.0% 2016-19=+303.2% 2020-22=+131.1% ultimo_terzo=+67.7% drawdown=30.8%
+K2b rottura di volatilita + media 15 costi x1: operazioni=756 (acq 756, ven 0) vinte=52% totale=+283.1% acquisti=+283.1% vendite=+0.0% 2016-19=+217.6% 2020-22=+65.5% ultimo_terzo=+17.9% drawdown=39.8%
+K2b rottura di volatilita + media 15 costi x2: operazioni=756 (acq 756, ven 0) vinte=47% totale=+131.9% acquisti=+131.9% vendite=+0.0% 2016-19=+132.0% 2020-22=-0.1% ultimo_terzo=-31.9% drawdown=55.8% criteri=SSNNN -> BOCCIATA
+   per anno (costi x2): {2016: 37.1, 2017: 71.3, 2018: 10.5, 2019: 13.1, 2020: 51.3, 2021: -36.1, 2022: -15.2}
+   uscite: {'fine giorno': 756}; durata media 0 days 13:09:24.682539; capitale composto costi x2 +155.3%
+K2b rottura di volatilita + media 15 + filtro regime-detection costi x0: operazioni=647 (acq 647, ven 0) vinte=55% totale=+355.9% acquisti=+355.9% vendite=+0.0% 2016-19=+252.3% 2020-22=+103.7% ultimo_terzo=+58.5% drawdown=31.4%
+K2b rottura di volatilita + media 15 + filtro regime-detection costi x1: operazioni=647 (acq 647, ven 0) vinte=51% totale=+226.5% acquisti=+226.5% vendite=+0.0% 2016-19=+177.5% 2020-22=+49.1% ultimo_terzo=+17.3% drawdown=35.4%
+K2b rottura di volatilita + media 15 + filtro regime-detection costi x2: operazioni=647 (acq 647, ven 0) vinte=47% totale=+97.1% acquisti=+97.1% vendite=+0.0% 2016-19=+102.7% 2020-22=-5.5% ultimo_terzo=-23.9% drawdown=48.7% criteri=SSNNN -> BOCCIATA
+   per anno (costi x2): {2016: 33.1, 2017: 47.6, 2018: 13.8, 2019: 8.2, 2020: 32.7, 2021: -13.2, 2022: -25.1}
+   uscite: {'fine giorno': 647}; durata media 0 days 13:06:26.244204; capitale composto costi x2 +87.6%
+K2b rottura di volatilita + media 15 + filtro tendenza crypto-regime costi x0: operazioni=520 (acq 520, ven 0) vinte=60% totale=+329.8% acquisti=+329.8% vendite=+0.0% 2016-19=+259.9% 2020-22=+69.8% ultimo_terzo=+44.3% drawdown=27.6%
+K2b rottura di volatilita + media 15 + filtro tendenza crypto-regime costi x1: operazioni=520 (acq 520, ven 0) vinte=54% totale=+225.8% acquisti=+225.8% vendite=+0.0% 2016-19=+194.3% 2020-22=+31.4% ultimo_terzo=+12.9% drawdown=39.1%
+K2b rottura di volatilita + media 15 + filtro tendenza crypto-regime costi x2: operazioni=520 (acq 520, ven 0) vinte=49% totale=+121.8% acquisti=+121.8% vendite=+0.0% 2016-19=+128.7% 2020-22=-7.0% ultimo_terzo=-18.6% drawdown=48.9% criteri=SSNNN -> BOCCIATA
+   per anno (costi x2): {2016: 37.1, 2017: 71.3, 2018: 14.0, 2019: 6.3, 2020: 31.0, 2021: -33.2, 2022: -4.8}
+   uscite: {'fine giorno': 520}; durata media 0 days 13:09:42.115384; capitale composto costi x2 +157.1%
+
+K3 RSI2 Connors (jesse, 3 ore) costi x0: operazioni=832 (acq 437, ven 395) vinte=68% totale=+119.7% acquisti=+48.0% vendite=+71.7% 2016-19=+56.7% 2020-22=+62.9% ultimo_terzo=+57.4% drawdown=36.2%
+K3 RSI2 Connors (jesse, 3 ore) costi x1: operazioni=832 (acq 437, ven 395) vinte=61% totale=-56.6% acquisti=-46.2% vendite=-10.4% 2016-19=-41.5% 2020-22=-15.1% ultimo_terzo=-5.7% drawdown=70.9%
+K3 RSI2 Connors (jesse, 3 ore) costi x2: operazioni=832 (acq 437, ven 395) vinte=50% totale=-232.9% acquisti=-140.3% vendite=-92.5% 2016-19=-139.8% 2020-22=-93.1% ultimo_terzo=-68.7% drawdown=93.5% criteri=SNNNN -> BOCCIATA
+   per anno (costi x2): {2016: -47.4, 2017: 13.8, 2018: -53.5, 2019: -52.7, 2020: -32.5, 2021: -49.2, 2022: -11.3}
+   uscite: {'segnale': 832}; durata media 0 days 12:21:25.096153; capitale composto costi x2 -92.6%
+K3 RSI2 Connors (jesse, 3 ore) + filtro regime-detection costi x0: operazioni=59 (acq 34, ven 25) vinte=64% totale=+2.3% acquisti=-8.9% vendite=+11.2% 2016-19=+7.2% 2020-22=-4.9% ultimo_terzo=-8.1% drawdown=15.3%
+K3 RSI2 Connors (jesse, 3 ore) + filtro regime-detection costi x1: operazioni=59 (acq 34, ven 25) vinte=53% totale=-10.3% acquisti=-16.2% vendite=+6.0% 2016-19=+1.2% 2020-22=-11.5% ultimo_terzo=-14.3% drawdown=18.5%
+K3 RSI2 Connors (jesse, 3 ore) + filtro regime-detection costi x2: operazioni=59 (acq 34, ven 25) vinte=31% totale=-22.8% acquisti=-23.6% vendite=+0.8% 2016-19=-4.7% 2020-22=-18.1% ultimo_terzo=-20.5% drawdown=23.4% criteri=NNNNN -> BOCCIATA
+   per anno (costi x2): {2016: -4.2, 2017: -0.6, 2018: -2.5, 2019: 2.6, 2020: -0.4, 2021: -18.7, 2022: 1.0}
+   uscite: {'segnale': 59}; durata media 0 days 12:15:15.254237; capitale composto costi x2 -21.5%
+K3 RSI2 Connors (jesse, 3 ore) + filtro tendenza crypto-regime costi x0: operazioni=513 (acq 317, ven 196) vinte=70% totale=+109.4% acquisti=+51.5% vendite=+57.9% 2016-19=+74.0% 2020-22=+35.4% ultimo_terzo=+39.2% drawdown=28.1%
+K3 RSI2 Connors (jesse, 3 ore) + filtro tendenza crypto-regime costi x1: operazioni=513 (acq 317, ven 196) vinte=64% totale=+0.4% acquisti=-16.8% vendite=+17.2% 2016-19=+13.9% 2020-22=-13.5% ultimo_terzo=-2.9% drawdown=54.0%
+K3 RSI2 Connors (jesse, 3 ore) + filtro tendenza crypto-regime costi x2: operazioni=513 (acq 317, ven 196) vinte=52% totale=-108.6% acquisti=-85.2% vendite=-23.4% 2016-19=-46.2% 2020-22=-62.4% ultimo_terzo=-45.0% drawdown=76.6% criteri=SNNNN -> BOCCIATA
+   per anno (costi x2): {2016: -18.6, 2017: 9.5, 2018: -31.4, 2019: -5.7, 2020: -22.1, 2021: -58.8, 2022: 18.6}
+   uscite: {'segnale': 513}; durata media 0 days 12:05:15.789473; capitale composto costi x2 -71.2%
+
+K4 BbandRsi (freqtrade, H1) costi x0: operazioni=232 (acq 232, ven 0) vinte=68% totale=-10.9% acquisti=-10.9% vendite=+0.0% 2016-19=+25.1% 2020-22=-35.9% ultimo_terzo=-42.5% drawdown=87.2%
+K4 BbandRsi (freqtrade, H1) costi x1: operazioni=232 (acq 232, ven 0) vinte=65% totale=-88.9% acquisti=-88.9% vendite=+0.0% 2016-19=-17.9% 2020-22=-71.0% ultimo_terzo=-69.4% drawdown=92.9%
+K4 BbandRsi (freqtrade, H1) costi x2: operazioni=232 (acq 232, ven 0) vinte=63% totale=-166.9% acquisti=-166.9% vendite=+0.0% 2016-19=-60.9% 2020-22=-106.0% ultimo_terzo=-96.2% drawdown=96.1% criteri=SNNNN -> BOCCIATA
+   per anno (costi x2): {2016: 4.1, 2017: 63.8, 2018: -116.8, 2019: -12.0, 2020: 13.4, 2021: -34.5, 2022: -84.9}
+   uscite: {'segnale': 191, 'target': 25, 'stop': 15, 'fine dati': 1}; durata media 4 days 23:30:15.517241; capitale composto costi x2 -93.2%
+K4 BbandRsi (freqtrade, H1) + filtro regime-detection costi x0: operazioni=27 (acq 27, ven 0) vinte=63% totale=-69.9% acquisti=-69.9% vendite=+0.0% 2016-19=-36.5% 2020-22=-33.4% ultimo_terzo=-45.9% drawdown=62.5%
+K4 BbandRsi (freqtrade, H1) + filtro regime-detection costi x1: operazioni=27 (acq 27, ven 0) vinte=56% totale=-78.7% acquisti=-78.7% vendite=+0.0% 2016-19=-40.1% 2020-22=-38.6% ultimo_terzo=-49.8% drawdown=65.4%
+K4 BbandRsi (freqtrade, H1) + filtro regime-detection costi x2: operazioni=27 (acq 27, ven 0) vinte=56% totale=-87.4% acquisti=-87.4% vendite=+0.0% 2016-19=-43.7% 2020-22=-43.7% ultimo_terzo=-53.7% drawdown=68.1% criteri=NNNNN -> BOCCIATA
+   per anno (costi x2): {2016: -22.6, 2018: -28.2, 2019: 7.1, 2020: 10.9, 2021: -37.9, 2022: -16.7}
+   uscite: {'segnale': 22, 'stop': 4, 'fine dati': 1}; durata media 4 days 12:40:00; capitale composto costi x2 -65.0%
+K4 BbandRsi (freqtrade, H1) + filtro tendenza crypto-regime costi x0: operazioni=155 (acq 155, ven 0) vinte=68% totale=+65.3% acquisti=+65.3% vendite=+0.0% 2016-19=+51.9% 2020-22=+13.4% ultimo_terzo=+18.5% drawdown=69.3%
+K4 BbandRsi (freqtrade, H1) + filtro tendenza crypto-regime costi x1: operazioni=155 (acq 155, ven 0) vinte=66% totale=+13.5% acquisti=+13.5% vendite=+0.0% 2016-19=+20.6% 2020-22=-7.1% ultimo_terzo=+3.3% drawdown=76.0%
+K4 BbandRsi (freqtrade, H1) + filtro tendenza crypto-regime costi x2: operazioni=155 (acq 155, ven 0) vinte=63% totale=-38.3% acquisti=-38.3% vendite=+0.0% 2016-19=-10.8% 2020-22=-27.5% ultimo_terzo=-11.8% drawdown=81.5% criteri=SNNNN -> BOCCIATA
+   per anno (costi x2): {2016: 4.1, 2017: 63.8, 2018: -68.3, 2019: -10.4, 2020: 7.5, 2021: -30.7, 2022: -4.3}
+   uscite: {'segnale': 125, 'target': 20, 'stop': 10}; durata media 4 days 20:42:11.612903; capitale composto costi x2 -65.8%
+
+K5 SimpleBollinger (jesse, H1) costi x0: operazioni=1016 (acq 1016, ven 0) vinte=39% totale=+471.2% acquisti=+471.2% vendite=+0.0% 2016-19=+393.5% 2020-22=+77.7% ultimo_terzo=+53.2% drawdown=37.5%
+K5 SimpleBollinger (jesse, H1) costi x1: operazioni=1016 (acq 1016, ven 0) vinte=36% totale=+247.5% acquisti=+247.5% vendite=+0.0% 2016-19=+268.1% 2020-22=-20.6% ultimo_terzo=-22.4% drawdown=63.9%
+K5 SimpleBollinger (jesse, H1) costi x2: operazioni=1016 (acq 1016, ven 0) vinte=32% totale=+23.7% acquisti=+23.7% vendite=+0.0% 2016-19=+142.7% 2020-22=-119.0% ultimo_terzo=-98.0% drawdown=82.5% criteri=SSNNN -> BOCCIATA
+   per anno (costi x2): {2016: -10.2, 2017: 167.6, 2018: -53.5, 2019: 38.8, 2020: 6.6, 2021: -45.4, 2022: -80.2}
+   uscite: {'segnale': 1016}; durata media 0 days 17:07:58.346456; capitale composto costi x2 -24.4%
+K5 SimpleBollinger (jesse, H1) + filtro regime-detection costi x0: operazioni=888 (acq 888, ven 0) vinte=39% totale=+420.0% acquisti=+420.0% vendite=+0.0% 2016-19=+371.4% 2020-22=+48.5% ultimo_terzo=+34.3% drawdown=41.5%
+K5 SimpleBollinger (jesse, H1) + filtro regime-detection costi x1: operazioni=888 (acq 888, ven 0) vinte=36% totale=+224.3% acquisti=+224.3% vendite=+0.0% 2016-19=+261.1% 2020-22=-36.8% ultimo_terzo=-31.4% drawdown=61.0%
+K5 SimpleBollinger (jesse, H1) + filtro regime-detection costi x2: operazioni=888 (acq 888, ven 0) vinte=33% totale=+28.6% acquisti=+28.6% vendite=+0.0% 2016-19=+150.7% 2020-22=-122.2% ultimo_terzo=-97.1% drawdown=79.8% criteri=SSNNN -> BOCCIATA
+   per anno (costi x2): {2016: 1.6, 2017: 147.3, 2018: -49.9, 2019: 51.7, 2020: -13.4, 2021: -27.2, 2022: -81.6}
+   uscite: {'segnale': 888}; durata media 0 days 17:14:23.513513; capitale composto costi x2 -17.2%
+K5 SimpleBollinger (jesse, H1) + filtro tendenza crypto-regime costi x0: operazioni=678 (acq 678, ven 0) vinte=42% totale=+428.8% acquisti=+428.8% vendite=+0.0% 2016-19=+369.5% 2020-22=+59.3% ultimo_terzo=+54.3% drawdown=31.1%
+K5 SimpleBollinger (jesse, H1) + filtro tendenza crypto-regime costi x1: operazioni=678 (acq 678, ven 0) vinte=38% totale=+278.6% acquisti=+278.6% vendite=+0.0% 2016-19=+274.9% 2020-22=+3.7% ultimo_terzo=+10.1% drawdown=47.2%
+K5 SimpleBollinger (jesse, H1) + filtro tendenza crypto-regime costi x2: operazioni=678 (acq 678, ven 0) vinte=35% totale=+128.4% acquisti=+128.4% vendite=+0.0% 2016-19=+180.3% 2020-22=-51.8% ultimo_terzo=-34.1% drawdown=59.6% criteri=SSNNN -> BOCCIATA
+   per anno (costi x2): {2016: -10.2, 2017: 167.6, 2018: -20.2, 2019: 43.1, 2020: 9.8, 2021: -43.9, 2022: -17.8}
+   uscite: {'segnale': 678}; durata media 0 days 17:59:06.902654; capitale composto costi x2 +145.7%
+
+K6 TradingView_RSI (jesse, H1) costi x0: operazioni=1685 (acq 1685, ven 0) vinte=60% totale=+5.3% acquisti=+5.3% vendite=+0.0% 2016-19=-97.0% 2020-22=+102.3% ultimo_terzo=+55.1% drawdown=92.6%
+K6 TradingView_RSI (jesse, H1) costi x1: operazioni=1685 (acq 1685, ven 0) vinte=57% totale=-371.6% acquisti=-371.6% vendite=+0.0% 2016-19=-308.8% 2020-22=-62.8% ultimo_terzo=-74.1% drawdown=99.2%
+K6 TradingView_RSI (jesse, H1) costi x2: operazioni=1685 (acq 1685, ven 0) vinte=53% totale=-748.5% acquisti=-748.5% vendite=+0.0% 2016-19=-520.5% 2020-22=-228.0% ultimo_terzo=-203.2% drawdown=100.0% criteri=SNNNN -> BOCCIATA
+   per anno (costi x2): {2016: -87.0, 2017: -132.7, 2018: -250.3, 2019: -50.4, 2020: -40.7, 2021: -64.8, 2022: -122.5}
+   uscite: {'segnale': 1267, 'stop': 370, 'target': 47, 'fine dati': 1}; durata media 0 days 20:58:21.721068; capitale composto costi x2 -100.0%
+K6 TradingView_RSI (jesse, H1) + filtro regime-detection costi x0: operazioni=147 (acq 147, ven 0) vinte=69% totale=+36.8% acquisti=+36.8% vendite=+0.0% 2016-19=+6.7% 2020-22=+30.1% ultimo_terzo=+23.1% drawdown=14.5%
+K6 TradingView_RSI (jesse, H1) + filtro regime-detection costi x1: operazioni=147 (acq 147, ven 0) vinte=60% totale=+3.3% acquisti=+3.3% vendite=+0.0% 2016-19=-9.6% 2020-22=+12.9% ultimo_terzo=+9.7% drawdown=20.7%
+K6 TradingView_RSI (jesse, H1) + filtro regime-detection costi x2: operazioni=147 (acq 147, ven 0) vinte=51% totale=-30.3% acquisti=-30.3% vendite=+0.0% 2016-19=-26.0% 2020-22=-4.3% ultimo_terzo=-3.7% drawdown=39.1% criteri=SNNNN -> BOCCIATA
+   per anno (costi x2): {2016: -21.0, 2017: 7.3, 2018: -18.0, 2019: 5.6, 2020: -9.4, 2021: -0.7, 2022: 5.9}
+   uscite: {'segnale': 135, 'stop': 12}; durata media 1 days 00:36:19.591836; capitale composto costi x2 -29.0%
+K6 TradingView_RSI (jesse, H1) + filtro tendenza crypto-regime costi x0: operazioni=1111 (acq 1111, ven 0) vinte=61% totale=-84.9% acquisti=-84.9% vendite=+0.0% 2016-19=-124.8% 2020-22=+39.9% ultimo_terzo=+37.6% drawdown=91.2%
+K6 TradingView_RSI (jesse, H1) + filtro tendenza crypto-regime costi x1: operazioni=1111 (acq 1111, ven 0) vinte=57% totale=-332.5% acquisti=-332.5% vendite=+0.0% 2016-19=-280.7% 2020-22=-51.8% ultimo_terzo=-34.8% drawdown=98.3%
+K6 TradingView_RSI (jesse, H1) + filtro tendenza crypto-regime costi x2: operazioni=1111 (acq 1111, ven 0) vinte=53% totale=-580.1% acquisti=-580.1% vendite=+0.0% 2016-19=-436.7% 2020-22=-143.4% ultimo_terzo=-107.1% drawdown=99.9% criteri=SNNNN -> BOCCIATA
+   per anno (costi x2): {2016: -87.0, 2017: -132.7, 2018: -158.2, 2019: -58.7, 2020: -52.2, 2021: -71.2, 2022: -20.1}
+   uscite: {'segnale': 804, 'stop': 281, 'target': 26}; durata media 0 days 20:10:12.421242; capitale composto costi x2 -99.9%
+
+K7 Supertrend (freqtrade, H1) costi x0: operazioni=851 (acq 851, ven 0) vinte=56% totale=+352.7% acquisti=+352.7% vendite=+0.0% 2016-19=+211.7% 2020-22=+141.0% ultimo_terzo=+117.8% drawdown=56.2%
+K7 Supertrend (freqtrade, H1) costi x1: operazioni=851 (acq 851, ven 0) vinte=53% totale=+151.7% acquisti=+151.7% vendite=+0.0% 2016-19=+95.6% 2020-22=+56.2% ultimo_terzo=+53.5% drawdown=67.3%
+K7 Supertrend (freqtrade, H1) costi x2: operazioni=851 (acq 851, ven 0) vinte=51% totale=-49.3% acquisti=-49.3% vendite=+0.0% 2016-19=-20.6% 2020-22=-28.7% ultimo_terzo=-10.8% drawdown=84.0% criteri=SNNNN -> BOCCIATA
+   per anno (costi x2): {2016: -19.5, 2017: 75.1, 2018: -84.6, 2019: 8.5, 2020: 22.0, 2021: 21.9, 2022: -72.6}
+   uscite: {'target': 646, 'segnale': 205}; durata media 1 days 07:55:20.799059; capitale composto costi x2 -69.9%
+K7 Supertrend (freqtrade, H1) + filtro regime-detection costi x0: operazioni=776 (acq 776, ven 0) vinte=55% totale=+246.2% acquisti=+246.2% vendite=+0.0% 2016-19=+155.8% 2020-22=+90.4% ultimo_terzo=+91.8% drawdown=55.2%
+K7 Supertrend (freqtrade, H1) + filtro regime-detection costi x1: operazioni=776 (acq 776, ven 0) vinte=51% totale=+63.3% acquisti=+63.3% vendite=+0.0% 2016-19=+47.2% 2020-22=+16.1% ultimo_terzo=+35.0% drawdown=69.2%
+K7 Supertrend (freqtrade, H1) + filtro regime-detection costi x2: operazioni=776 (acq 776, ven 0) vinte=50% totale=-119.7% acquisti=-119.7% vendite=+0.0% 2016-19=-61.4% 2020-22=-58.3% ultimo_terzo=-21.8% drawdown=88.1% criteri=SNNNN -> BOCCIATA
+   per anno (costi x2): {2016: -21.2, 2017: 38.9, 2018: -80.7, 2019: 1.7, 2020: -6.6, 2021: 19.5, 2022: -71.3}
+   uscite: {'target': 583, 'segnale': 193}; durata media 1 days 07:46:00.309278; capitale composto costi x2 -84.6%
+K7 Supertrend (freqtrade, H1) + filtro tendenza crypto-regime costi x0: operazioni=580 (acq 580, ven 0) vinte=58% totale=+344.6% acquisti=+344.6% vendite=+0.0% 2016-19=+216.7% 2020-22=+127.9% ultimo_terzo=+128.1% drawdown=35.8%
+K7 Supertrend (freqtrade, H1) + filtro tendenza crypto-regime costi x1: operazioni=580 (acq 580, ven 0) vinte=56% totale=+208.3% acquisti=+208.3% vendite=+0.0% 2016-19=+129.4% 2020-22=+78.8% ultimo_terzo=+87.3% drawdown=43.7%
+K7 Supertrend (freqtrade, H1) + filtro tendenza crypto-regime costi x2: operazioni=580 (acq 580, ven 0) vinte=54% totale=+71.9% acquisti=+71.9% vendite=+0.0% 2016-19=+42.2% 2020-22=+29.8% ultimo_terzo=+46.4% drawdown=57.3% criteri=SSNSN -> BOCCIATA
+   per anno (costi x2): {2016: -19.5, 2017: 75.1, 2018: -19.1, 2019: 5.7, 2020: 23.2, 2021: 21.2, 2022: -14.7}
+   uscite: {'target': 453, 'segnale': 127}; durata media 1 days 07:02:16.551724; capitale composto costi x2 +25.2%
+
+K8 medie 50/200 (jesse, 3 ore) costi x0: operazioni=115 (acq 57, ven 58) vinte=36% totale=+670.3% acquisti=+670.1% vendite=+0.2% 2016-19=+530.1% 2020-22=+140.2% ultimo_terzo=+60.0% drawdown=62.7%
+K8 medie 50/200 (jesse, 3 ore) costi x1: operazioni=115 (acq 57, ven 58) vinte=36% totale=+592.6% acquisti=+619.3% vendite=-26.7% 2016-19=+485.0% 2020-22=+107.6% ultimo_terzo=+33.9% drawdown=69.5%
+K8 medie 50/200 (jesse, 3 ore) costi x2: operazioni=115 (acq 57, ven 58) vinte=34% totale=+514.9% acquisti=+568.5% vendite=-53.7% 2016-19=+439.9% 2020-22=+75.0% ultimo_terzo=+7.8% drawdown=75.3% criteri=SSNSN -> BOCCIATA
+   per anno (costi x2): {2016: 11.0, 2017: 338.4, 2018: 4.5, 2019: 86.1, 2020: 182.0, 2021: -27.9, 2022: -79.2}
+   uscite: {'segnale': 114, 'fine dati': 1}; durata media 22 days 05:36:31.304347; capitale composto costi x2 +942.0%
+K8 medie 50/200 (jesse, 3 ore) + filtro regime-detection costi x0: operazioni=112 (acq 56, ven 56) vinte=35% totale=+607.5% acquisti=+625.6% vendite=-18.1% 2016-19=+514.2% 2020-22=+93.4% ultimo_terzo=+30.6% drawdown=65.3%
+K8 medie 50/200 (jesse, 3 ore) + filtro regime-detection costi x1: operazioni=112 (acq 56, ven 56) vinte=35% totale=+531.6% acquisti=+575.8% vendite=-44.2% 2016-19=+469.4% 2020-22=+62.2% ultimo_terzo=+5.5% drawdown=71.5%
+K8 medie 50/200 (jesse, 3 ore) + filtro regime-detection costi x2: operazioni=112 (acq 56, ven 56) vinte=34% totale=+455.7% acquisti=+526.0% vendite=-70.3% 2016-19=+424.5% 2020-22=+31.1% ultimo_terzo=-19.7% drawdown=76.8% criteri=SSNSN -> BOCCIATA
+   per anno (costi x2): {2016: 3.0, 2017: 338.4, 2018: -2.9, 2019: 86.1, 2020: 145.8, 2021: -23.8, 2022: -90.9}
+   uscite: {'segnale': 111, 'fine dati': 1}; durata media 22 days 08:53:34.285714; capitale composto costi x2 +577.7%
+K8 medie 50/200 (jesse, 3 ore) + filtro tendenza crypto-regime costi x0: operazioni=65 (acq 42, ven 23) vinte=42% totale=+655.6% acquisti=+613.6% vendite=+41.9% 2016-19=+502.2% 2020-22=+153.4% ultimo_terzo=+125.9% drawdown=51.7%
+K8 medie 50/200 (jesse, 3 ore) + filtro tendenza crypto-regime costi x1: operazioni=65 (acq 42, ven 23) vinte=42% totale=+606.1% acquisti=+576.2% vendite=+29.9% 2016-19=+474.0% 2020-22=+132.1% ultimo_terzo=+108.6% drawdown=55.4%
+K8 medie 50/200 (jesse, 3 ore) + filtro tendenza crypto-regime costi x2: operazioni=65 (acq 42, ven 23) vinte=42% totale=+556.6% acquisti=+538.8% vendite=+17.9% 2016-19=+445.8% 2020-22=+110.9% ultimo_terzo=+91.3% drawdown=58.9% criteri=NSSSN -> BOCCIATA
+   per anno (costi x2): {2016: 38.1, 2017: 390.9, 2018: -18.7, 2019: 35.5, 2020: 143.4, 2021: -12.5, 2022: -20.0}
+   uscite: {'segnale': 64, 'fine dati': 1}; durata media 24 days 17:40:36.923076; capitale composto costi x2 +2163.2%
+

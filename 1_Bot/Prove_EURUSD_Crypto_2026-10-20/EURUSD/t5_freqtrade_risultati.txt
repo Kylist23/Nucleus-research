@@ -1,0 +1,13 @@
+EUR/USD: somma dei rendimenti % delle operazioni, senza leva
+FAdxSmaStrategy (H1) costi x0: operazioni=74 (acq 28, ven 46) vinte=43% totale=-2.0% acquisti=-0.8% vendite=-1.2% 2016-19=-2.3% 2020-22=+0.3% ultimo_terzo=-0.9% drawdown=4.5%
+FAdxSmaStrategy (H1) costi x1: operazioni=74 (acq 28, ven 46) vinte=39% totale=-3.2% acquisti=-1.3% vendite=-1.9% 2016-19=-3.2% 2020-22=-0.1% ultimo_terzo=-1.2% drawdown=4.8%
+FAdxSmaStrategy (H1) costi x2: operazioni=74 (acq 28, ven 46) vinte=32% totale=-4.5% acquisti=-1.9% vendite=-2.6% 2016-19=-4.1% 2020-22=-0.4% ultimo_terzo=-1.4% drawdown=5.4% criteri=NNNNS -> BOCCIATA
+   per anno (costi x2): {2016: -3.3, 2017: -0.4, 2018: -0.2, 2019: -0.2, 2020: 1.0, 2021: -1.4}
+VolatilitySystem (3 ore) costi x0: operazioni=117 (acq 59, ven 58) vinte=40% totale=-21.9% acquisti=-12.1% vendite=-9.8% 2016-19=-13.5% 2020-22=-8.5% ultimo_terzo=-9.2% drawdown=20.5%
+VolatilitySystem (3 ore) costi x1: operazioni=117 (acq 59, ven 58) vinte=36% totale=-31.6% acquisti=-19.4% vendite=-12.2% 2016-19=-19.8% 2020-22=-11.8% ultimo_terzo=-11.3% drawdown=27.8%
+VolatilitySystem (3 ore) costi x2: operazioni=117 (acq 59, ven 58) vinte=33% totale=-41.3% acquisti=-26.6% vendite=-14.7% 2016-19=-26.2% 2020-22=-15.1% ultimo_terzo=-13.5% drawdown=34.4% criteri=SNNNN -> BOCCIATA
+   per anno (costi x2): {2016: -10.3, 2017: -5.6, 2018: 1.1, 2019: -11.4, 2020: -5.2, 2021: -9.6, 2022: -0.3}
+TrendFollowingStrategy (M15) costi x0: operazioni=10 (acq 6, ven 4) vinte=90% totale=+41.7% acquisti=+21.7% vendite=+20.0% 2016-19=+20.0% 2020-22=+21.7% ultimo_terzo=-3.3% drawdown=3.3%
+TrendFollowingStrategy (M15) costi x1: operazioni=10 (acq 6, ven 4) vinte=90% totale=+35.3% acquisti=+17.7% vendite=+17.6% 2016-19=+16.2% 2020-22=+19.2% ultimo_terzo=-4.1% drawdown=4.1%
+TrendFollowingStrategy (M15) costi x2: operazioni=10 (acq 6, ven 4) vinte=90% totale=+29.0% acquisti=+13.7% vendite=+15.3% 2016-19=+12.3% 2020-22=+16.7% ultimo_terzo=-4.8% drawdown=4.8% criteri=NSSSS -> BOCCIATA
+   per anno (costi x2): {2016: 10.0, 2017: 2.3, 2020: 21.5, 2021: -4.8}

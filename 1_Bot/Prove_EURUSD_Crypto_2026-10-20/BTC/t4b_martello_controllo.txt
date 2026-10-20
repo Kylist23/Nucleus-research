@@ -1,0 +1,2 @@
+Bitcoin martello solo forma: reale +59.7R su 264 operazioni (costi doppi)
+entrate a caso (20 ripetizioni, stesso numero di operazioni): mediana +36.0R, min -24.2R, max +79.6R, prove casuali sotto il reale: 17/20

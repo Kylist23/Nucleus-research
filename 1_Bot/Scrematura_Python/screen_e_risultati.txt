@@ -1,0 +1,12 @@
+Scrematura Serie E, eseguita il 20/10/2026 dopo la registrazione dei criteri nel Manuale.
+Comando: python3 -I screen_e.py ../Dati/XAUUSD_M5_2016-2022.csv <E1|E2|CTRL> 1 2 <csv>
+
+E1 x1 costi x2: n=1246 vinte=32.7% totale=-74.4R (senza costi +49.8R) acquisti=-8.0R vendite=-66.4R 2016-19=-76.0R 2020-22=+1.6R ultimo terzo=-36.7R drawdown=37.2% notti medie=0.8 R medio=-0.060 R migliore=+10.2
+   per anno: {2016: -17.7, 2017: -4.7, 2018: -43.1, 2019: -10.4, 2020: 34.1, 2021: -9.6, 2022: -22.9}
+   criteri ['OK', 'NO', 'NO', 'NO', 'NO'] -> BOCCIATA
+E2 x1 costi x2: n=896 vinte=36.3% totale=-0.8R (senza costi +97.3R) acquisti=+52.8R vendite=-53.6R 2016-19=-16.0R 2020-22=+15.2R ultimo terzo=-12.4R drawdown=17.8% notti medie=1.5 R medio=-0.001 R migliore=+4.8
+   per anno: {2016: -1.0, 2017: 0.2, 2018: -14.9, 2019: -0.3, 2020: 29.7, 2021: -9.4, 2022: -5.2}
+   criteri ['OK', 'NO', 'NO', 'NO', 'NO'] -> BOCCIATA
+CTRL x1 costi x2: n=1234 vinte=34.7% totale=-76.4R (senza costi +46.9R) acquisti=-0.9R vendite=-75.6R 2016-19=-72.0R 2020-22=-4.4R ultimo terzo=-31.4R drawdown=38.3% notti medie=1.1 R medio=-0.062 R migliore=+2.0
+   per anno: {2016: -10.8, 2017: -4.4, 2018: -33.0, 2019: -23.8, 2020: 28.7, 2021: -23.0, 2022: -10.2}
+   criteri ['OK', 'NO', 'NO', 'NO', 'NO'] -> BOCCIATA

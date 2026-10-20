@@ -1,0 +1,7 @@
+Bitcoin - fattore soglia 1.0, fattore stop 1.0
+F: n=1715 (acq 847, ven 868) vinte=30% costi_doppi=-604.8R senza_costi=+114.8R media=-0.353R acquisti=-301.2R vendite=-303.6R 2016-19=-350.0R 2020-22=-254.8R ultimo_terzo=-181.0R drawdown=95.4% criteri=SNNNN -> BOCCIATA
+   per anno (costi doppi): {2016: -124.4, 2017: -85.8, 2018: -83.3, 2019: -56.5, 2020: -110.0, 2021: -95.0, 2022: -49.8}
+G: n=419 (acq 211, ven 208) vinte=40% costi_doppi=-40.1R senza_costi=-9.5R media=-0.096R acquisti=-18.3R vendite=-21.9R 2016-19=-17.5R 2020-22=-22.6R ultimo_terzo=-21.4R drawdown=18.3% criteri=SNNNN -> BOCCIATA
+   per anno (costi doppi): {2016: -7.5, 2017: -5.1, 2018: -5.1, 2019: 0.2, 2020: -1.0, 2021: -7.0, 2022: -14.6}
+H: n=323 (acq 141, ven 182) vinte=36% costi_doppi=-74.7R senza_costi=-38.8R media=-0.231R acquisti=-29.8R vendite=-44.9R 2016-19=-49.8R 2020-22=-24.9R ultimo_terzo=-16.5R drawdown=32.4% criteri=SNNNN -> BOCCIATA
+   per anno (costi doppi): {2016: -20.9, 2017: -14.1, 2018: -10.0, 2019: -4.8, 2020: -14.0, 2021: -7.7, 2022: -3.2}

@@ -1,0 +1,26 @@
+== EMA20_trailing
+Quality score: 71/100 — Decision: RISK_LIMIT_EXCEEDED (legacy verdict: Refine)
+Blocking reasons: risk_limit_exceeded
+JSON: backtest_expert_report/EMA20_trailing/backtest_eval_2026-10-20_151515.json
+Markdown: backtest_expert_report/EMA20_trailing/backtest_eval_2026-10-20_151515.md
+== ATR_trailing
+Quality score: 65/100 — Decision: REJECT (legacy verdict: Abandon)
+Blocking reasons: negative_expectancy, risk_limit_exceeded
+Red flags: 1
+  [HIGH] Negative expectancy (-0.000%) — strategy loses money on average.
+JSON: backtest_expert_report/ATR_trailing/backtest_eval_2026-10-20_151516.json
+Markdown: backtest_expert_report/ATR_trailing/backtest_eval_2026-10-20_151516.md
+== Hammer_geometria_1pct
+Quality score: 59/100 — Decision: REJECT (legacy verdict: Abandon)
+Blocking reasons: negative_expectancy, risk_limit_exceeded
+Red flags: 1
+  [HIGH] Negative expectancy (-0.142%) — strategy loses money on average.
+JSON: backtest_expert_report/Hammer_geometria_1pct/backtest_eval_2026-10-20_151516.json
+Markdown: backtest_expert_report/Hammer_geometria_1pct/backtest_eval_2026-10-20_151516.md
+== E2_fette_1pct
+Quality score: 58/100 — Decision: REJECT (legacy verdict: Abandon)
+Blocking reasons: negative_expectancy, risk_limit_exceeded
+Red flags: 1
+  [HIGH] Negative expectancy (-0.000%) — strategy loses money on average.
+JSON: backtest_expert_report/E2_fette_1pct/backtest_eval_2026-10-20_151516.json
+Markdown: backtest_expert_report/E2_fette_1pct/backtest_eval_2026-10-20_151516.md

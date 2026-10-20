@@ -1,0 +1,8 @@
+Stati restituiti dalla skill: {'REJECTED': 1672, 'MANUAL_REVIEW': 3}
+Motivi di scarto piu frequenti: {'insufficient_recovery_from_low': 1624, 'pullback_too_shallow': 1354, 'lower_wick_too_small': 1255, 'weak_wick_body_asymmetry': 1242, 'body_too_large': 1012, 'weak_close_location': 951, 'below_min_volume': 893, 'recent_high_too_stale': 557}
+skill costi x0: operazioni=3 vinte=67% totale=-0.1R media=-0.042R 2016-19=+0.0R 2020-22=-0.1R
+skill costi x1: operazioni=3 vinte=67% totale=-0.2R media=-0.062R 2016-19=+0.0R 2020-22=-0.2R
+skill costi x2: operazioni=3 vinte=67% totale=-0.2R media=-0.083R 2016-19=+0.0R 2020-22=-0.2R
+geometria costi x0: operazioni=151 vinte=36% totale=-1.5R media=-0.010R 2016-19=+15.9R 2020-22=-17.4R
+geometria costi x1: operazioni=151 vinte=36% totale=-11.5R media=-0.076R 2016-19=+9.0R 2020-22=-20.4R
+geometria costi x2: operazioni=151 vinte=35% totale=-21.4R media=-0.142R 2016-19=+2.0R 2020-22=-23.5R

@@ -1,0 +1,14 @@
+EUR/USD - skill regime-detection, solo acquisti, somma dei rendimenti % (senza leva)
+H1 statica (medie 10/30) costi x0: operazioni=657 vinte=29% totale=+3.4% 2016-19=+2.1% 2020-22=+1.3% ultimo_terzo=-8.2% drawdown=9.4%
+H1 statica (medie 10/30) costi x1: operazioni=657 vinte=28% totale=-12.9% 2016-19=-8.3% 2020-22=-4.5% ultimo_terzo=-12.4% drawdown=16.8%
+H1 statica (medie 10/30) costi x2: operazioni=657 vinte=26% totale=-29.1% 2016-19=-18.8% 2020-22=-10.3% ultimo_terzo=-16.6% drawdown=28.7% criteri=SNNNN (solo acquisti: il criterio vendite non e' verificabile)
+H1 adattiva (medie o RSI) costi x0: operazioni=520 vinte=45% totale=+4.6% 2016-19=+4.5% 2020-22=+0.1% ultimo_terzo=-3.7% drawdown=5.2%
+H1 adattiva (medie o RSI) costi x1: operazioni=520 vinte=43% totale=-6.7% 2016-19=-3.0% 2020-22=-3.7% ultimo_terzo=-6.5% drawdown=11.2%
+H1 adattiva (medie o RSI) costi x2: operazioni=520 vinte=40% totale=-17.9% 2016-19=-10.4% 2020-22=-7.5% ultimo_terzo=-9.2% drawdown=20.3% criteri=SNNNN (solo acquisti: il criterio vendite non e' verificabile)
+D1 statica (medie 10/30) costi x0: operazioni=34 vinte=18% totale=-6.0% 2016-19=-3.4% 2020-22=-2.5% ultimo_terzo=-4.2% drawdown=12.3%
+D1 statica (medie 10/30) costi x1: operazioni=34 vinte=12% totale=-13.7% 2016-19=-8.7% 2020-22=-5.1% ultimo_terzo=-5.7% drawdown=14.1%
+D1 statica (medie 10/30) costi x2: operazioni=34 vinte=12% totale=-21.5% 2016-19=-13.9% 2020-22=-7.6% ultimo_terzo=-7.2% drawdown=19.4% criteri=NNNNN (solo acquisti: il criterio vendite non e' verificabile)
+D1 adattiva (medie o RSI) costi x0: operazioni=23 vinte=39% totale=+1.4% 2016-19=+2.4% 2020-22=-1.0% ultimo_terzo=-4.5% drawdown=6.7%
+D1 adattiva (medie o RSI) costi x1: operazioni=23 vinte=30% totale=-5.2% 2016-19=-1.9% 2020-22=-3.2% ultimo_terzo=-5.6% drawdown=9.2%
+D1 adattiva (medie o RSI) costi x2: operazioni=23 vinte=22% totale=-11.8% 2016-19=-6.3% 2020-22=-5.5% ultimo_terzo=-6.7% drawdown=12.9% criteri=NNNNN (solo acquisti: il criterio vendite non e' verificabile)
+Riferimento: comprare e tenere EUR/USD = +0.6%

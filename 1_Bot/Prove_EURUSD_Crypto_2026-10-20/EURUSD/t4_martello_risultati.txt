@@ -1,0 +1,6 @@
+EUR/USD - stati restituiti dalla skill: {'REJECTED': 1471}
+Motivi di scarto piu frequenti: {'below_min_price': 1471, 'below_min_avg_dollar_volume': 1471, 'insufficient_recovery_from_low': 1470, 'pullback_too_shallow': 1434, 'lower_wick_too_small': 1164, 'weak_wick_body_asymmetry': 1155, 'below_min_volume': 1076, 'body_too_large': 943}
+skill: nessuna operazione
+geometria costi x0: operazioni=112 vinte=34% totale=-21.7R media=-0.194R 2016-19=+10.0R 2020-22=-31.7R ultimo_terzo=-28.6R drawdown=15.4%
+geometria costi x1: operazioni=112 vinte=33% totale=-38.9R media=-0.347R 2016-19=+1.9R 2020-22=-40.7R ultimo_terzo=-36.2R drawdown=19.6%
+geometria costi x2: operazioni=112 vinte=32% totale=-56.0R media=-0.500R 2016-19=-6.2R 2020-22=-49.8R ultimo_terzo=-43.8R drawdown=25.0%

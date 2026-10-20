@@ -1,0 +1,6 @@
+Bitcoin - stati restituiti dalla skill: {'REJECTED': 2426}
+Motivi di scarto piu frequenti: {'below_min_volume': 2426, 'lower_wick_too_small': 1668, 'weak_wick_body_asymmetry': 1644, 'body_too_large': 1372, 'weak_close_location': 1299, 'insufficient_recovery_from_low': 1131, 'recent_high_too_stale': 761, 'pullback_too_shallow': 690}
+skill: nessuna operazione
+geometria costi x0: operazioni=264 vinte=36% totale=+118.0R media=+0.447R 2016-19=+78.9R 2020-22=+39.1R ultimo_terzo=+26.5R drawdown=11.1%
+geometria costi x1: operazioni=264 vinte=34% totale=+88.8R media=+0.337R 2016-19=+61.7R 2020-22=+27.2R ultimo_terzo=+17.3R drawdown=13.2%
+geometria costi x2: operazioni=264 vinte=34% totale=+59.7R media=+0.226R 2016-19=+44.4R 2020-22=+15.3R ultimo_terzo=+8.2R drawdown=16.2%

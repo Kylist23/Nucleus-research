@@ -1,0 +1,67 @@
+EUR/USD - fase 2, somma dei rendimenti % delle operazioni senza leva, dal 2016-01-01 al 2022-03-04; comprare e tenere = +0.6%
+N1 inversione intraday (Lean, H1) costi x0: operazioni=1596 (acq 798, ven 798) vinte=58% totale=+9.1% acquisti=+5.6% vendite=+3.5% 2016-19=+7.3% 2020-22=+1.8% ultimo_terzo=+3.1% drawdown=4.9%
+N1 inversione intraday (Lean, H1) costi x1: operazioni=1596 (acq 798, ven 798) vinte=53% totale=-11.9% acquisti=-4.9% vendite=-7.0% 2016-19=-6.8% 2020-22=-5.0% ultimo_terzo=-1.0% drawdown=12.6%
+N1 inversione intraday (Lean, H1) costi x2: operazioni=1596 (acq 798, ven 798) vinte=47% totale=-32.8% acquisti=-15.4% vendite=-17.4% 2016-19=-20.9% 2020-22=-11.9% ultimo_terzo=-5.2% drawdown=29.0% criteri=SNNNN -> BOCCIATA
+   per anno (costi x2): {2016: -5.5, 2017: -4.8, 2018: -4.0, 2019: -6.7, 2020: -7.6, 2021: -1.4, 2022: -2.9}
+   uscite: {'orario': 829, 'segnale': 767}; durata media 0 days 02:03:32.030075
+N1 inversione intraday (Lean, H1) + filtro regime-detection costi x0: operazioni=287 (acq 140, ven 147) vinte=55% totale=-3.2% acquisti=-4.1% vendite=+1.0% 2016-19=-1.4% 2020-22=-1.7% ultimo_terzo=-1.1% drawdown=3.8%
+N1 inversione intraday (Lean, H1) + filtro regime-detection costi x1: operazioni=287 (acq 140, ven 147) vinte=50% totale=-6.9% acquisti=-6.0% vendite=-0.9% 2016-19=-4.3% 2020-22=-2.6% ultimo_terzo=-1.7% drawdown=6.9%
+N1 inversione intraday (Lean, H1) + filtro regime-detection costi x2: operazioni=287 (acq 140, ven 147) vinte=45% totale=-10.7% acquisti=-7.8% vendite=-2.9% 2016-19=-7.2% 2020-22=-3.5% ultimo_terzo=-2.4% drawdown=10.3% criteri=SNNNN -> BOCCIATA
+   per anno (costi x2): {2016: -2.1, 2017: -1.0, 2018: -3.5, 2019: -0.6, 2020: -1.7, 2021: -1.0, 2022: -0.8}
+   uscite: {'orario': 153, 'segnale': 134}; durata media 0 days 02:03:20.696864
+
+N2 Bollinger+RSI+regime (OptiFabian, M15) costi x0: operazioni=1017 (acq 504, ven 513) vinte=65% totale=+19.7% acquisti=+9.3% vendite=+10.5% 2016-19=+13.8% 2020-22=+5.9% ultimo_terzo=+4.2% drawdown=2.8%
+N2 Bollinger+RSI+regime (OptiFabian, M15) costi x1: operazioni=1017 (acq 504, ven 513) vinte=62% totale=+5.7% acquisti=+2.1% vendite=+3.6% 2016-19=+4.7% 2020-22=+1.1% ultimo_terzo=+0.9% drawdown=5.3%
+N2 Bollinger+RSI+regime (OptiFabian, M15) costi x2: operazioni=1017 (acq 504, ven 513) vinte=59% totale=-8.3% acquisti=-5.0% vendite=-3.2% 2016-19=-4.5% 2020-22=-3.8% ultimo_terzo=-2.4% drawdown=10.8% criteri=SNNNN -> BOCCIATA
+   per anno (costi x2): {2016: 1.5, 2017: -5.8, 2018: -0.2, 2019: 0.0, 2020: 0.6, 2021: -2.1, 2022: -2.2}
+   uscite: {'segnale': 1017}; durata media 0 days 05:06:07.256637
+N2 Bollinger+RSI+regime (OptiFabian, M15) + filtro regime-detection costi x0: operazioni=56 (acq 33, ven 23) vinte=61% totale=+0.5% acquisti=-0.7% vendite=+1.2% 2016-19=+1.0% 2020-22=-0.5% ultimo_terzo=-0.5% drawdown=1.0%
+N2 Bollinger+RSI+regime (OptiFabian, M15) + filtro regime-detection costi x1: operazioni=56 (acq 33, ven 23) vinte=54% totale=-0.3% acquisti=-1.2% vendite=+0.9% 2016-19=+0.3% 2020-22=-0.6% ultimo_terzo=-0.6% drawdown=1.1%
+N2 Bollinger+RSI+regime (OptiFabian, M15) + filtro regime-detection costi x2: operazioni=56 (acq 33, ven 23) vinte=52% totale=-1.1% acquisti=-1.7% vendite=+0.6% 2016-19=-0.4% 2020-22=-0.7% ultimo_terzo=-0.7% drawdown=1.4% criteri=NNNNS -> BOCCIATA
+   per anno (costi x2): {2016: 0.2, 2017: -0.9, 2018: -0.0, 2019: 0.3, 2021: -0.5, 2022: -0.2}
+   uscite: {'segnale': 56}; durata media 0 days 04:55:42.857142
+
+N3 HLHB (BabyPips, H1) costi x0: operazioni=412 (acq 199, ven 213) vinte=47% totale=+4.0% acquisti=-2.7% vendite=+6.7% 2016-19=+12.6% 2020-22=-8.6% ultimo_terzo=-7.6% drawdown=12.6%
+N3 HLHB (BabyPips, H1) costi x1: operazioni=412 (acq 199, ven 213) vinte=45% totale=-3.8% acquisti=-7.3% vendite=+3.5% 2016-19=+7.5% 2020-22=-11.3% ultimo_terzo=-9.4% drawdown=15.5%
+N3 HLHB (BabyPips, H1) costi x2: operazioni=412 (acq 199, ven 213) vinte=43% totale=-11.6% acquisti=-11.9% vendite=+0.3% 2016-19=+2.4% 2020-22=-14.0% ultimo_terzo=-11.2% drawdown=19.1% criteri=SNNNN -> BOCCIATA
+   per anno (costi x2): {2016: -1.1, 2017: 1.6, 2018: 3.5, 2019: -1.5, 2020: -1.8, 2021: -7.2, 2022: -5.0}
+   uscite: {'orario': 215, 'segnale': 153, 'stop': 43, 'target': 1}; durata media 1 days 14:41:30.291262
+N3 HLHB (BabyPips, H1) + filtro regime-detection costi x0: operazioni=320 (acq 158, ven 162) vinte=46% totale=-4.9% acquisti=-2.8% vendite=-2.1% 2016-19=+4.5% 2020-22=-9.4% ultimo_terzo=-7.1% drawdown=12.2%
+N3 HLHB (BabyPips, H1) + filtro regime-detection costi x1: operazioni=320 (acq 158, ven 162) vinte=44% totale=-11.0% acquisti=-6.4% vendite=-4.5% 2016-19=+0.7% 2020-22=-11.7% ultimo_terzo=-8.6% drawdown=14.4%
+N3 HLHB (BabyPips, H1) + filtro regime-detection costi x2: operazioni=320 (acq 158, ven 162) vinte=42% totale=-17.0% acquisti=-10.1% vendite=-6.9% 2016-19=-3.0% 2020-22=-14.0% ultimo_terzo=-10.1% drawdown=17.2% criteri=SNNNN -> BOCCIATA
+   per anno (costi x2): {2016: -1.1, 2017: -2.2, 2018: 0.7, 2019: -0.5, 2020: -2.2, 2021: -8.0, 2022: -3.9}
+   uscite: {'orario': 162, 'segnale': 121, 'stop': 37}; durata media 1 days 14:10:30
+
+N4 rottura di Londra (tradlysis, M15) costi x0: operazioni=1159 (acq 589, ven 570) vinte=36% totale=-7.6% acquisti=-7.9% vendite=+0.2% 2016-19=-7.6% 2020-22=-0.1% ultimo_terzo=+1.9% drawdown=13.8%
+N4 rottura di Londra (tradlysis, M15) costi x1: operazioni=1159 (acq 589, ven 570) vinte=35% totale=-22.8% acquisti=-15.6% vendite=-7.3% 2016-19=-17.4% 2020-22=-5.5% ultimo_terzo=-1.9% drawdown=24.2%
+N4 rottura di Londra (tradlysis, M15) costi x2: operazioni=1159 (acq 589, ven 570) vinte=34% totale=-38.1% acquisti=-23.3% vendite=-14.7% 2016-19=-27.2% 2020-22=-10.9% ultimo_terzo=-5.6% drawdown=34.7% criteri=SNNNN -> BOCCIATA
+   per anno (costi x2): {2016: -5.0, 2017: -7.0, 2018: -7.6, 2019: -7.6, 2020: -6.3, 2021: -3.4, 2022: -1.2}
+   uscite: {'stop': 690, 'target': 269, 'orario': 200}; durata media 0 days 04:52:59.896462
+N4 rottura di Londra (tradlysis, M15) + filtro regime-detection costi x0: operazioni=891 (acq 458, ven 433) vinte=36% totale=-4.8% acquisti=-6.0% vendite=+1.2% 2016-19=-3.3% 2020-22=-1.5% ultimo_terzo=-0.3% drawdown=9.9%
+N4 rottura di Londra (tradlysis, M15) + filtro regime-detection costi x1: operazioni=891 (acq 458, ven 433) vinte=36% totale=-16.5% acquisti=-12.0% vendite=-4.5% 2016-19=-10.7% 2020-22=-5.8% ultimo_terzo=-3.3% drawdown=19.1%
+N4 rottura di Londra (tradlysis, M15) + filtro regime-detection costi x2: operazioni=891 (acq 458, ven 433) vinte=35% totale=-28.2% acquisti=-18.0% vendite=-10.2% 2016-19=-18.1% 2020-22=-10.0% ultimo_terzo=-6.4% drawdown=27.9% criteri=SNNNN -> BOCCIATA
+   per anno (costi x2): {2016: -3.4, 2017: -4.8, 2018: -4.1, 2019: -5.8, 2020: -5.6, 2021: -3.7, 2022: -0.8}
+   uscite: {'stop': 526, 'target': 202, 'orario': 163}; durata media 0 days 04:56:28.888888
+
+N5 RSI2 Connors (jesse, 3 ore) costi x0: operazioni=534 (acq 265, ven 269) vinte=58% totale=-1.5% acquisti=+1.8% vendite=-3.4% 2016-19=+2.7% 2020-22=-4.3% ultimo_terzo=-1.1% drawdown=6.8%
+N5 RSI2 Connors (jesse, 3 ore) costi x1: operazioni=534 (acq 265, ven 269) vinte=56% totale=-10.6% acquisti=-3.3% vendite=-7.3% 2016-19=-3.3% 2020-22=-7.3% ultimo_terzo=-3.2% drawdown=12.3%
+N5 RSI2 Connors (jesse, 3 ore) costi x2: operazioni=534 (acq 265, ven 269) vinte=54% totale=-19.7% acquisti=-8.5% vendite=-11.2% 2016-19=-9.3% 2020-22=-10.4% ultimo_terzo=-5.4% drawdown=19.4% criteri=SNNNN -> BOCCIATA
+   per anno (costi x2): {2016: -3.9, 2017: -0.1, 2018: -3.9, 2019: -1.4, 2020: -7.3, 2021: -3.6, 2022: 0.5}
+   uscite: {'segnale': 534}; durata media 0 days 20:43:28.988764
+N5 RSI2 Connors (jesse, 3 ore) + filtro regime-detection costi x0: operazioni=86 (acq 39, ven 47) vinte=59% totale=+0.8% acquisti=+1.4% vendite=-0.6% 2016-19=-0.2% 2020-22=+1.0% ultimo_terzo=+0.5% drawdown=4.0%
+N5 RSI2 Connors (jesse, 3 ore) + filtro regime-detection costi x1: operazioni=86 (acq 39, ven 47) vinte=56% totale=-0.6% acquisti=+0.6% vendite=-1.3% 2016-19=-1.4% 2020-22=+0.7% ultimo_terzo=+0.3% drawdown=4.5%
+N5 RSI2 Connors (jesse, 3 ore) + filtro regime-detection costi x2: operazioni=86 (acq 39, ven 47) vinte=52% totale=-2.0% acquisti=-0.1% vendite=-2.0% 2016-19=-2.5% 2020-22=+0.5% ultimo_terzo=+0.1% drawdown=5.2% criteri=NNNNS -> BOCCIATA
+   per anno (costi x2): {2016: -0.3, 2017: -2.3, 2018: -1.9, 2019: 2.1, 2020: -0.2, 2021: 0.6}
+   uscite: {'segnale': 86}; durata media 0 days 18:31:23.720930
+
+N6 Dynamic Breakout II (QuantConnect, giornaliero) costi x0: operazioni=35 (acq 15, ven 20) vinte=34% totale=-3.1% acquisti=+2.7% vendite=-5.7% 2016-19=+0.1% 2020-22=-3.1% ultimo_terzo=-0.9% drawdown=15.0%
+N6 Dynamic Breakout II (QuantConnect, giornaliero) costi x1: operazioni=35 (acq 15, ven 20) vinte=34% totale=-6.9% acquisti=-0.3% vendite=-6.5% 2016-19=-2.3% 2020-22=-4.6% ultimo_terzo=-1.7% drawdown=15.4%
+N6 Dynamic Breakout II (QuantConnect, giornaliero) costi x2: operazioni=35 (acq 15, ven 20) vinte=31% totale=-10.7% acquisti=-3.4% vendite=-7.4% 2016-19=-4.6% 2020-22=-6.1% ultimo_terzo=-2.5% drawdown=15.9% criteri=NNNNN -> BOCCIATA
+   per anno (costi x2): {2016: -2.8, 2017: 3.2, 2018: 2.4, 2019: -7.5, 2020: -4.7, 2021: 0.1, 2022: -1.5}
+   uscite: {'segnale': 34, 'fine dati': 1}; durata media 23 days 10:05:34.285714
+N6 Dynamic Breakout II (QuantConnect, giornaliero) + filtro regime-detection costi x0: operazioni=34 (acq 15, ven 19) vinte=35% totale=-4.6% acquisti=+2.7% vendite=-7.3% 2016-19=-1.2% 2020-22=-3.4% ultimo_terzo=-1.2% drawdown=16.3%
+N6 Dynamic Breakout II (QuantConnect, giornaliero) + filtro regime-detection costi x1: operazioni=34 (acq 15, ven 19) vinte=35% totale=-8.4% acquisti=-0.3% vendite=-8.1% 2016-19=-3.5% 2020-22=-4.9% ultimo_terzo=-2.0% drawdown=16.8%
+N6 Dynamic Breakout II (QuantConnect, giornaliero) + filtro regime-detection costi x2: operazioni=34 (acq 15, ven 19) vinte=32% totale=-12.2% acquisti=-3.4% vendite=-8.8% 2016-19=-5.8% 2020-22=-6.4% ultimo_terzo=-2.8% drawdown=17.5% criteri=NNNNN -> BOCCIATA
+   per anno (costi x2): {2016: -2.8, 2017: 3.9, 2018: 0.7, 2019: -7.5, 2020: -4.7, 2021: -0.2, 2022: -1.5}
+   uscite: {'segnale': 33, 'fine dati': 1}; durata media 23 days 04:50:17.647058
+
