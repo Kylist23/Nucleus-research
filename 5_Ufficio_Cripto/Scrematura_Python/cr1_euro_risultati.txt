@@ -1,0 +1,24 @@
+Cambio BCE usato: da 1.3658 (2014-01-02) a 1.0666 (2022-12-30) dollari per 1 euro
+
+CR1 in euro, capitale iniziale 10,000 euro, 32 cambi
+  Capitale finale: 270,359 euro  (guadagno netto +260,359 euro)
+  Operazioni chiuse: 16; vincenti 7 per +381,540 euro; perdenti 9 per -121,180 euro
+  Costi pagati (1% per lato, gia' raddoppiati): 42,605 euro sulle operazioni chiuse + 0 euro di entrata dell'ultima
+    perdita peggiore: 2022-04-04 -> 2022-04-11: -51,535 euro (-16.0%)
+    perdita peggiore: 2021-12-27 -> 2022-01-03: -41,809 euro (-11.5%)
+    perdita peggiore: 2021-10-04 -> 2021-12-13: -11,328 euro (-3.0%)
+  Calo massimo in euro: da 629,608 (2021-04-13) a 270,359 (2022-04-11): -359,249 euro (-57.1%)
+
+Compra e tieni in euro: finale 260,020 euro (+250,020); calo massimo -715,466 euro (-73.6%), da 2021-11-09 a 2022-11-21
+PAC in euro: 108 rate da 92.59 euro, investiti 10,000, finale 171,557 euro (+161,557)
+
+Anno per anno in euro (variazione del capitale) CR1 / compra e tieni:
+  2014:       -5,846 euro (-58.5%)   /        -5,637 euro (-56.4%)
+  2015:       +1,485 euro (+35.8%)   /        +2,247 euro (+51.5%)
+  2016:       +7,356 euro (+130.4%)   /        +8,622 euro (+130.4%)
+  2017:     +157,853 euro (+1214.7%)   /      +185,036 euro (+1214.7%)
+  2018:      -84,336 euro (-49.4%)   /      -145,833 euro (-72.8%)
+  2019:      +16,589 euro (+19.2%)   /       +52,617 euro (+96.7%)
+  2020:     +179,012 euro (+173.6%)   /      +290,323 euro (+271.2%)
+  2021:      +41,849 euro (+14.8%)   /      +280,566 euro (+70.6%)
+  2022:      -53,602 euro (-16.5%)   /      -417,921 euro (-61.6%)

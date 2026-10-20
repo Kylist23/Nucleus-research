@@ -1,0 +1,30 @@
+source_id: ecb
+name: European Central Bank
+status: verified
+verified_at: 2026-09-20
+role: primary
+data_type: reference_exchange_rate
+
+compliance:
+  automated_access: allowed
+  persistent_storage: allowed
+  derived_data: allowed
+  ml_ai_use: allowed
+  redistribution: conditional
+  citation_required: true
+
+conditions:
+  - Preserve source attribution.
+  - Do not misrepresent modified data as unmodified official ECB data.
+  - Exclude third-party-originated data where applicable.
+  - ESCB general policy warns that published statistics may be revised or updated; continuity is not guaranteed.
+
+technical:
+  revision_aware: false
+  revision_policy_confirmed_for_series: false
+  raw_immutable: true
+
+evidence:
+  verified_at: 2026-09-20
+  urls:
+    - https://www.ecb.europa.eu/stats/ecb_statistics/governance_and_quality_framework/html/usage_policy.en.html

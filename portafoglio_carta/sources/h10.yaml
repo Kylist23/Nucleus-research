@@ -1,0 +1,33 @@
+source_id: federal_reserve_h10
+name: Federal Reserve Board H.10
+status: verified
+verified_at: 2026-09-20
+role: secondary
+data_type: reference_exchange_rate
+
+compliance:
+  automated_access: allowed
+  persistent_storage: allowed
+  derived_data: allowed
+  ml_ai_use: verify_before_ai_specific_use
+  redistribution: allowed_with_attribution
+  citation_required: true
+
+conditions:
+  - Preserve Federal Reserve attribution.
+  - Use official H.10 download mechanisms.
+  - Treat published observations as revisionable.
+  - Never silently overwrite a previous vintage.
+
+technical:
+  revision_aware: true
+  raw_immutable: true
+  vintage_required: true
+  observation_date_required: true
+  vintage_date_required: true
+
+evidence:
+  verified_at: 2026-09-20
+  urls:
+    - https://www.federalreserve.gov/disclaimer.htm
+    - https://www.federalreserve.gov/datadownload/Choose.aspx?rel=H10

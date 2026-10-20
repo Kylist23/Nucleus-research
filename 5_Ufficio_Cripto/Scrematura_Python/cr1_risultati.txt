@@ -1,0 +1,28 @@
+Dati: 2010-07-19 .. 2022-12-30, righe 3224
+CR1 (media 200): finale 277,458 $, cambi 32, calo max -67.2%
+  2014-2018 +783.2%  2019-2022 +214.2%  2020-2022 +170.6%
+Compra e tieni: finale 203,059 $, calo max -83.0%
+  2014-2018 +356.3%  2019-2022 +345.0%
+PAC: 108 rate, investiti 10,000 $, finale 157,812 $
+  (1) finale > 10.000: SUPERATO
+  (2) due periodi positivi: SUPERATO
+  (3) calo max <= 50%: NON superato
+  (4) calo max 20 punti meglio di compra e tieni: NON superato
+Anno per anno (CR1 / compra e tieni):
+  2014: -58.4% / -61.2%
+  2015: +28.6% / +35.9%
+  2016: +123.1% / +123.1%
+  2017: +1395.9% / +1395.9%
+  2018: -50.5% / -74.0%
+  2019: +16.1% / +92.9%
+  2020: +206.7% / +305.5%
+  2021: +6.4% / +57.5%
+  2022: -17.1% / -63.9%
+Robustezza:
+  media 100: finale 127,816 $, calo max -79.2%, cambi 28 -> no
+  media 150: finale 236,490 $, calo max -72.2%, cambi 28 -> no
+  media 250: finale 257,684 $, calo max -79.1%, cambi 18 -> no
+  media 300: finale 193,873 $, calo max -84.1%, cambi 10 -> no
+  varianti che superano (1) e (3): 0/4 (soglia 3)
+  ultimo terzo 2020-2022: +170.6% (soglia > 0)
+  un giorno di ritardo: finale 384,277 $ (soglia > 10.000)
