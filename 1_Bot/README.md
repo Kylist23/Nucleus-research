@@ -20,7 +20,9 @@
 
 `EA/Serie_A/NucleusEA_v1.mq5` e' la primissima versione (EURUSD), poi adattata all'oro nella v1.1.
 
-Idee provate in totale: 12 (i 9 tentativi sopra piu' 3 idee scartate nella scrematura in Python del 09/10/2026).
+Idee provate in totale: 15 (i 12 tentativi sopra piu' 3 idee scartate nella scrematura in Python del 09/10/2026). Corretto il 21/10/2026: prima diceva 12, contato prima delle serie E, F, G e H.
+
+Perche' e' fallita ogni idea (costi, lato, periodo): `Tabella_fallimenti.md` (in inglese: `FAILURES.md`).
 
 ## Decisione del 20/10/2026: pausa delle nuove idee di trading
 
